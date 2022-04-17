@@ -1,0 +1,32 @@
+transition:0.2s ease;
+box-shadow
+repeat:
+display:initial
+object-fit:cover;
+background-size:cover;
+background-position: top 30% right 30%;
+z-index:-9;
+
+#cart{
+    overflow-x: auto;
+    }
+    
+#cart table{
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+      white-space: nowrap;
+}
+
+<select>
+    <option>one</option>
+    <option>two</option>
+    <option>three</option>
+</select>
+
+<abbr title="">Create stunnig images as much or as little control as you like thanks to a choice of Basic and Creative modes.</abbr>
+<br>
+<br>
+<marquee bg-color="#ccc" loop="-1" scrollamout="5" width="100%">Create stunnig images as much or as little control as you like thanks to a choice of Basic and Creative modes.</marquee>
+
+ <video autoplay muted loop src="./img/about/1.mp4"></video>
